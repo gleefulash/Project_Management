@@ -1,0 +1,111 @@
+timestamp,country,service_type,demo_request,request_category,browser,transaction_id,revenue,product_id,session_duration,customer_behavior,subscription_status,types_of_jobs_requested
+2025-01-01 00:00:00.000000,Germany,Development,0,Search,Firefox,txn_1747728256_000,861.9786442686125,prod_000,350.8114504082561,Converted,Inactive,"Analysis,Reporting"
+2025-01-01 00:01:00.000000,Canada,Development,1,Search,Firefox,txn_1747728256_001,527.9103483681672,prod_001,125.81030929882849,Converted,Active,Support
+2025-01-01 00:02:00.000000,Canada,Development,1,Email,Firefox,txn_1747728256_002,755.4286174236137,prod_002,260.61527791751934,Browsing,Active,Support
+2025-01-01 00:03:00.000000,USA,Consulting,1,Email,Edge,txn_1747728256_003,167.2335956160302,prod_003,433.0478966691737,Engaged,Trial,"Analysis,Reporting"
+2025-01-01 00:04:00.000000,Canada,Development,1,Referral,Firefox,txn_1747728256_004,931.308837219719,prod_004,181.97162169419136,Abandoned,Inactive,Support
+2025-01-01 00:05:00.000000,UK,Consulting,1,Referral,Firefox,txn_1747728256_005,911.034237231907,prod_005,191.3354981252684,Engaged,Inactive,"Analysis,Reporting"
+2025-01-01 00:06:00.000000,France,Development,1,Search,Edge,txn_1747728256_006,108.84490908197128,prod_006,525.0907646921505,Engaged,Inactive,Support
+2025-01-01 00:07:00.000000,UK,Support,1,Social Media,Edge,txn_1747728256_007,407.8881316718805,prod_007,483.1570008945044,Abandoned,Inactive,"Development,Testing"
+2025-01-01 00:08:00.000000,France,Development,1,Email,Edge,txn_1747728256_008,219.43525038904096,prod_008,499.90408003013147,Engaged,Trial,"Development,Testing"
+2025-01-01 00:09:00.000000,UK,Support,0,Email,Edge,txn_1747728256_009,697.7251712286719,prod_009,165.00563116422262,Engaged,Inactive,"Analysis,Reporting"
+2025-01-01 00:10:00.000000,USA,Development,0,Email,Edge,txn_1747728256_010,433.87940708064,prod_000,327.3013662568038,Abandoned,Active,"Development,Testing"
+2025-01-01 00:11:00.000000,UK,Support,1,Social Media,Chrome,txn_1747728256_011,939.3959216369324,prod_001,120.00440201995896,Abandoned,Trial,"Analysis,Reporting"
+2025-01-01 00:12:00.000000,Canada,Development,1,Referral,Firefox,txn_1747728256_012,635.6659750584614,prod_002,470.2545153671392,Abandoned,Inactive,Support
+2025-01-01 00:13:00.000000,Germany,Development,1,Search,Safari,txn_1747728256_013,403.7810141939821,prod_003,312.64854714319256,Browsing,Trial,"Development,Testing"
+2025-01-01 00:14:00.000000,France,Development,0,Email,Firefox,txn_1747728256_014,476.31744680807975,prod_004,236.47804338947057,Engaged,Inactive,"Analysis,Reporting"
+2025-01-01 00:15:00.000000,France,Support,1,Email,Firefox,txn_1747728256_015,825.8295002104697,prod_005,570.7948568164343,Abandoned,Inactive,"Development,Testing"
+2025-01-01 00:16:00.000000,France,Consulting,0,Referral,Firefox,txn_1747728256_016,504.5630468184314,prod_006,401.3803822296134,Abandoned,Trial,"Development,Testing"
+2025-01-01 00:17:00.000000,UK,Development,0,Search,Safari,txn_1747728256_017,720.4361843952017,prod_007,72.89041963918595,Converted,Active,"Analysis,Reporting"
+2025-01-01 00:18:00.000000,Germany,Consulting,0,Email,Safari,txn_1747728256_018,916.860689759595,prod_008,350.9638031558956,Abandoned,Trial,Support
+2025-01-01 00:19:00.000000,UK,Consulting,1,Social Media,Chrome,txn_1747728256_019,180.3027514393424,prod_009,585.9118767978803,Engaged,Trial,"Development,Testing"
+2025-01-01 00:20:00.000000,UK,Support,0,Email,Safari,txn_1747728256_020,254.6601443339912,prod_000,494.2173177510111,Engaged,Trial,Support
+2025-01-01 00:21:00.000000,USA,Consulting,0,Email,Safari,txn_1747728256_021,566.356506025208,prod_001,480.77964837239415,Converted,Trial,Support
+2025-01-01 00:22:00.000000,UK,Consulting,0,Search,Firefox,txn_1747728256_022,856.0562833004367,prod_002,444.2314895259121,Engaged,Inactive,"Analysis,Reporting"
+2025-01-01 00:23:00.000000,France,Support,1,Social Media,Edge,txn_1747728256_023,520.4250426131073,prod_003,180.13703056887763,Browsing,Active,Support
+2025-01-01 00:24:00.000000,USA,Support,0,Search,Edge,txn_1747728256_024,205.56208767879485,prod_004,443.0191020338757,Engaged,Active,Support
+2025-01-01 00:25:00.000000,France,Development,0,Social Media,Chrome,txn_1747728256_025,113.54738009888258,prod_005,325.1982319521819,Converted,Inactive,"Development,Testing"
+2025-01-01 00:26:00.000000,UK,Consulting,1,Social Media,Edge,txn_1747728256_026,346.9780019127031,prod_006,171.18142195718906,Browsing,Active,"Analysis,Reporting"
+2025-01-01 00:27:00.000000,France,Support,0,Email,Safari,txn_1747728256_027,396.5143818716396,prod_007,418.4442698519312,Browsing,Inactive,"Analysis,Reporting"
+2025-01-01 00:28:00.000000,France,Support,1,Search,Firefox,txn_1747728256_028,187.3912272096805,prod_008,298.2677553680724,Browsing,Inactive,"Development,Testing"
+2025-01-01 00:29:00.000000,France,Consulting,0,Referral,Chrome,txn_1747728256_029,540.4326732524643,prod_009,591.9890090747575,Converted,Trial,"Analysis,Reporting"
+2025-01-01 00:30:00.000000,France,Support,1,Search,Edge,txn_1747728256_030,963.5421815169144,prod_000,80.35195483821556,Browsing,Active,Support
+2025-01-01 00:31:00.000000,USA,Development,0,Social Media,Firefox,txn_1747728256_031,206.14711375392125,prod_001,328.5491394978389,Browsing,Trial,"Development,Testing"
+2025-01-01 00:32:00.000000,Canada,Support,1,Social Media,Chrome,txn_1747728256_032,126.62266550078913,prod_002,364.1119087782191,Browsing,Inactive,Support
+2025-01-01 00:33:00.000000,USA,Consulting,1,Referral,Safari,txn_1747728256_033,240.9865526197625,prod_003,157.37396727791716,Browsing,Active,"Analysis,Reporting"
+2025-01-01 00:34:00.000000,UK,Consulting,0,Social Media,Chrome,txn_1747728256_034,632.3693592382263,prod_004,282.78953443313026,Engaged,Trial,"Analysis,Reporting"
+2025-01-01 00:35:00.000000,UK,Consulting,1,Search,Chrome,txn_1747728256_035,757.504896746324,prod_005,226.2223912992891,Engaged,Trial,Support
+2025-01-01 00:36:00.000000,Canada,Support,0,Search,Safari,txn_1747728256_036,996.6542612626896,prod_006,442.4678986440748,Engaged,Inactive,Support
+2025-01-01 00:37:00.000000,UK,Support,0,Search,Chrome,txn_1747728256_037,587.7977340813632,prod_007,195.0342868369021,Browsing,Active,Support
+2025-01-01 00:38:00.000000,UK,Development,0,Search,Chrome,txn_1747728256_038,865.472675268853,prod_008,111.13599492270905,Engaged,Inactive,"Analysis,Reporting"
+2025-01-01 00:39:00.000000,Canada,Consulting,1,Search,Firefox,txn_1747728256_039,876.2499253038295,prod_009,516.3430055226227,Converted,Active,"Analysis,Reporting"
+2025-01-01 00:40:00.000000,Canada,Consulting,0,Social Media,Edge,txn_1747728256_040,781.6165131583363,prod_000,484.2340276763271,Abandoned,Active,Support
+2025-01-01 00:41:00.000000,France,Support,1,Social Media,Firefox,txn_1747728256_041,760.016493727298,prod_001,295.1345896899846,Converted,Inactive,"Development,Testing"
+2025-01-01 00:42:00.000000,Canada,Consulting,1,Referral,Firefox,txn_1747728256_042,531.8416953579192,prod_002,114.57866565069122,Engaged,Inactive,"Analysis,Reporting"
+2025-01-01 00:43:00.000000,UK,Support,1,Search,Edge,txn_1747728256_043,954.5678461279508,prod_003,501.7986043942712,Engaged,Inactive,"Development,Testing"
+2025-01-01 00:44:00.000000,Canada,Consulting,0,Referral,Chrome,txn_1747728256_044,181.8537283474588,prod_004,499.6614560301026,Abandoned,Trial,"Analysis,Reporting"
+2025-01-01 00:45:00.000000,UK,Support,1,Search,Safari,txn_1747728256_045,167.19830168564124,prod_005,494.2315436396658,Abandoned,Inactive,Support
+2025-01-01 00:46:00.000000,France,Consulting,1,Email,Safari,txn_1747728256_046,976.7018059034737,prod_006,456.025516713346,Converted,Active,"Analysis,Reporting"
+2025-01-01 00:47:00.000000,Canada,Support,0,Email,Safari,txn_1747728256_047,317.79137712878213,prod_007,471.7228152154034,Browsing,Active,"Development,Testing"
+2025-01-01 00:48:00.000000,Germany,Consulting,1,Referral,Safari,txn_1747728256_048,433.9857694673788,prod_008,304.85867637144554,Browsing,Trial,"Analysis,Reporting"
+2025-01-01 00:49:00.000000,France,Development,1,Referral,Chrome,txn_1747728256_049,587.1078393434419,prod_009,596.8780349642429,Abandoned,Active,Support
+2025-01-01 00:50:00.000000,France,Development,0,Referral,Edge,txn_1747728256_050,192.0204539359085,prod_000,160.4565531369414,Converted,Inactive,"Development,Testing"
+2025-01-01 00:51:00.000000,USA,Consulting,0,Search,Edge,txn_1747728256_051,377.7490760857116,prod_001,357.1393562416362,Browsing,Inactive,"Development,Testing"
+2025-01-01 00:52:00.000000,Germany,Development,1,Search,Safari,txn_1747728256_052,586.8566999964016,prod_002,426.3256651804476,Browsing,Inactive,"Analysis,Reporting"
+2025-01-01 00:53:00.000000,Germany,Development,1,Social Media,Firefox,txn_1747728256_053,486.7305038412018,prod_003,418.3056960495184,Engaged,Inactive,"Development,Testing"
+2025-01-01 00:54:00.000000,Germany,Development,0,Social Media,Safari,txn_1747728256_054,502.6292896775559,prod_004,282.5919460681654,Abandoned,Trial,"Analysis,Reporting"
+2025-01-01 00:55:00.000000,UK,Support,0,Referral,Edge,txn_1747728256_055,890.5339660215191,prod_005,72.91469317264507,Abandoned,Active,"Development,Testing"
+2025-01-01 00:56:00.000000,Germany,Support,0,Referral,Firefox,txn_1747728256_056,462.7659139240602,prod_006,100.56252896485026,Converted,Active,"Development,Testing"
+2025-01-01 00:57:00.000000,UK,Support,1,Search,Safari,txn_1747728256_057,932.475385931973,prod_007,544.468960862517,Abandoned,Inactive,"Analysis,Reporting"
+2025-01-01 00:58:00.000000,France,Development,1,Referral,Edge,txn_1747728256_058,790.2122166021691,prod_008,297.36279104473005,Engaged,Active,"Development,Testing"
+2025-01-01 00:59:00.000000,UK,Consulting,0,Social Media,Safari,txn_1747728256_059,721.626917767538,prod_009,186.71464338464503,Browsing,Inactive,"Development,Testing"
+2025-01-01 01:00:00.000000,Canada,Consulting,0,Email,Safari,txn_1747728256_060,421.3716426537997,prod_000,478.1051424212304,Engaged,Inactive,Support
+2025-01-01 01:01:00.000000,Canada,Consulting,0,Social Media,Edge,txn_1747728256_061,315.58841636614704,prod_001,262.89241642670873,Converted,Active,"Development,Testing"
+2025-01-01 01:02:00.000000,USA,Development,1,Email,Safari,txn_1747728256_062,793.813964882053,prod_002,382.04605147592326,Engaged,Inactive,"Analysis,Reporting"
+2025-01-01 01:03:00.000000,Germany,Development,0,Social Media,Chrome,txn_1747728256_063,397.68618463628513,prod_003,243.3373853717784,Abandoned,Trial,Support
+2025-01-01 01:04:00.000000,Canada,Development,0,Social Media,Chrome,txn_1747728256_064,204.6583560489538,prod_004,499.3593418686936,Converted,Inactive,Support
+2025-01-01 01:05:00.000000,UK,Support,1,Email,Chrome,txn_1747728256_065,532.1398987223431,prod_005,526.5540068587605,Converted,Inactive,"Analysis,Reporting"
+2025-01-01 01:06:00.000000,France,Support,0,Email,Chrome,txn_1747728256_066,532.6165888274808,prod_006,384.32502290767616,Engaged,Active,"Analysis,Reporting"
+2025-01-01 01:07:00.000000,Germany,Development,1,Search,Edge,txn_1747728256_067,522.577060509366,prod_007,288.3216126844833,Engaged,Trial,"Development,Testing"
+2025-01-01 01:08:00.000000,USA,Development,1,Referral,Edge,txn_1747728256_068,929.1413101173134,prod_008,522.2402218004106,Engaged,Active,"Analysis,Reporting"
+2025-01-01 01:09:00.000000,Canada,Development,1,Search,Chrome,txn_1747728256_069,942.7203734167626,prod_009,568.6706256479097,Converted,Trial,"Analysis,Reporting"
+2025-01-01 01:10:00.000000,USA,Support,0,Search,Firefox,txn_1747728256_070,587.802415369166,prod_000,564.977523957081,Abandoned,Trial,Support
+2025-01-01 01:11:00.000000,UK,Development,1,Search,Edge,txn_1747728256_071,558.1952596576837,prod_001,265.69308408143627,Abandoned,Trial,Support
+2025-01-01 01:12:00.000000,Germany,Development,0,Social Media,Chrome,txn_1747728256_072,160.78516462231562,prod_002,371.22772052756346,Browsing,Inactive,Support
+2025-01-01 01:13:00.000000,France,Support,1,Referral,Chrome,txn_1747728256_073,382.9974465451489,prod_003,122.37922247835272,Converted,Active,"Analysis,Reporting"
+2025-01-01 01:14:00.000000,USA,Development,1,Social Media,Safari,txn_1747728256_074,207.5185475669798,prod_004,135.741172497626,Engaged,Inactive,"Development,Testing"
+2025-01-01 01:15:00.000000,USA,Consulting,0,Email,Edge,txn_1747728256_075,474.9511404335572,prod_005,156.4572839978753,Engaged,Active,"Development,Testing"
+2025-01-01 01:16:00.000000,UK,Development,0,Search,Edge,txn_1747728256_076,273.46927784012354,prod_006,523.4681324783987,Abandoned,Active,Support
+2025-01-01 01:17:00.000000,Germany,Support,1,Search,Safari,txn_1747728256_077,414.8214509522463,prod_007,146.69841909541404,Engaged,Active,"Analysis,Reporting"
+2025-01-01 01:18:00.000000,UK,Support,1,Email,Chrome,txn_1747728256_078,684.3967249716715,prod_008,300.13119126671774,Browsing,Inactive,"Analysis,Reporting"
+2025-01-01 01:19:00.000000,UK,Development,1,Email,Safari,txn_1747728256_079,546.6894715916671,prod_009,358.35437053212087,Browsing,Active,"Analysis,Reporting"
+2025-01-01 01:20:00.000000,Germany,Development,0,Email,Chrome,txn_1747728256_080,287.3210198286107,prod_000,362.85992035862193,Browsing,Active,Support
+2025-01-01 01:21:00.000000,Canada,Support,1,Search,Safari,txn_1747728256_081,804.7136997010537,prod_001,296.79694667820473,Abandoned,Trial,Support
+2025-01-01 01:22:00.000000,France,Support,0,Email,Safari,txn_1747728256_082,904.1506409817134,prod_002,258.7881916608416,Browsing,Active,Support
+2025-01-01 01:23:00.000000,Germany,Development,0,Social Media,Edge,txn_1747728256_083,500.2250077383868,prod_003,530.4880204786094,Engaged,Trial,"Analysis,Reporting"
+2025-01-01 01:24:00.000000,Canada,Support,1,Social Media,Chrome,txn_1747728256_084,643.6766706341067,prod_004,518.3478035435871,Abandoned,Trial,"Development,Testing"
+2025-01-01 01:25:00.000000,USA,Development,0,Email,Firefox,txn_1747728256_085,388.5624047635687,prod_005,422.72761515770287,Converted,Trial,"Development,Testing"
+2025-01-01 01:26:00.000000,France,Development,0,Email,Firefox,txn_1747728256_086,626.1509636013367,prod_006,508.494205932573,Abandoned,Active,"Development,Testing"
+2025-01-01 01:27:00.000000,Canada,Consulting,0,Email,Safari,txn_1747728256_087,448.70958794012336,prod_007,268.46335495362166,Engaged,Trial,Support
+2025-01-01 01:28:00.000000,Canada,Development,0,Referral,Safari,txn_1747728256_088,386.405561216064,prod_008,404.69044261804606,Engaged,Trial,"Development,Testing"
+2025-01-01 01:29:00.000000,Canada,Support,0,Social Media,Safari,txn_1747728256_089,274.91569463491965,prod_009,363.06618883021673,Engaged,Trial,"Analysis,Reporting"
+2025-01-01 01:30:00.000000,UK,Development,1,Social Media,Safari,txn_1747728256_090,809.6865490310818,prod_000,477.7741011208888,Abandoned,Trial,"Analysis,Reporting"
+2025-01-01 01:31:00.000000,Germany,Consulting,1,Search,Chrome,txn_1747728256_091,820.4538536738596,prod_001,548.9255616528025,Engaged,Trial,"Analysis,Reporting"
+2025-01-01 01:32:00.000000,USA,Consulting,1,Referral,Firefox,txn_1747728256_092,231.2507736044794,prod_002,536.3685404471403,Converted,Inactive,Support
+2025-01-01 01:33:00.000000,Canada,Consulting,0,Social Media,Firefox,txn_1747728256_093,241.0303188034537,prod_003,578.1460168697643,Engaged,Trial,"Development,Testing"
+2025-01-01 01:34:00.000000,Germany,Support,1,Social Media,Edge,txn_1747728256_094,170.3660403543621,prod_004,144.1405352494789,Engaged,Trial,"Analysis,Reporting"
+2025-01-01 01:35:00.000000,Germany,Consulting,1,Social Media,Chrome,txn_1747728256_095,865.7555270829106,prod_005,263.5275296342912,Engaged,Trial,Support
+2025-01-01 01:36:00.000000,France,Consulting,0,Search,Chrome,txn_1747728256_096,649.3850464761748,prod_006,148.59020562827496,Engaged,Trial,Support
+2025-01-01 01:37:00.000000,Canada,Development,0,Search,Firefox,txn_1747728256_097,548.9845303405964,prod_007,192.3267048985273,Engaged,Active,Support
+2025-01-01 01:38:00.000000,UK,Development,0,Social Media,Edge,txn_1747728256_098,304.2568596771139,prod_008,487.9161374982122,Converted,Active,Support
+2025-01-01 01:39:00.000000,Canada,Consulting,0,Email,Chrome,txn_1747728256_099,296.747957200639,prod_009,232.6487304757352,Converted,Inactive,"Development,Testing"
+2025-05-20 01:01:16.538881,Canada,Support,1,Social Media,Chrome,txn_1747728256_000,684.8996502275337,prod_000,459.93008333899576,Browsing,Trial,"Analysis,Reporting"
+2025-05-20 01:02:16.538881,Canada,Consulting,1,Email,Safari,txn_1747728256_001,688.2599452033883,prod_001,397.9213414742549,Abandoned,Trial,"Analysis,Reporting"
+2025-05-20 01:03:16.538881,USA,Support,1,Social Media,Edge,txn_1747728256_002,734.4798192794891,prod_002,580.5480254423591,Engaged,Active,"Development,Testing"
+2025-05-21 16:54:09.875597,Germany,Support,0,Referral,Safari,txn_1747871769_000,692.5199937540149,prod_000,289.82768401955934,Abandoned,Active,"Analysis,Reporting"
+2025-05-21 16:55:09.875597,Germany,Consulting,1,Email,Firefox,txn_1747871769_001,547.3945039376165,prod_001,463.3436698285411,Abandoned,Active,"Development,Testing"
+2025-05-21 16:54:20.602645,USA,Consulting,1,Search,Edge,txn_1747871780_000,206.94857626017807,prod_000,76.49808523051226,Abandoned,Inactive,Support
+2025-05-21 16:55:20.602645,USA,Development,1,Search,Safari,txn_1747871780_001,979.8733691626802,prod_001,464.6064794050862,Abandoned,Active,"Analysis,Reporting"
+2025-05-21 16:53:30.687171,Germany,Consulting,1,Email,Chrome,txn_1747871790_000,329.8414821757117,prod_000,591.904124743541,Engaged,Trial,Support
+2025-05-21 16:54:30.687171,Germany,Consulting,1,Social Media,Safari,txn_1747871790_001,531.267936152024,prod_001,373.97928631307036,Converted,Trial,"Analysis,Reporting"
+2025-05-21 16:55:30.687171,USA,Support,1,Social Media,Chrome,txn_1747871790_002,593.0518379458489,prod_002,403.5048274725624,Abandoned,Trial,"Analysis,Reporting"
